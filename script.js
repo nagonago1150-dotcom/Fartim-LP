@@ -1,6 +1,6 @@
 let currentQuestion = 1;
 const answers = {};
-const redirectUrl = 'https://ac-ld.catsys.jp/35cdb41fDc62db0D/cl/?bId=d69VVc9e';
+const redirectUrl = 'https://esth-cosme.jp/lp?u=bcg-ln-hp';
 
 // カスタムカーソルの初期化
 function initCursor() {
